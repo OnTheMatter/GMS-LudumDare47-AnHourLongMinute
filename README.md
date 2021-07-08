@@ -5,6 +5,8 @@ SOUND AND SPRITE RESOURCES HERE BELOW :
 
 https://drive.google.com/drive/folders/1tUl_7JMzJj5as0gAlt_nDwvtoVjS46Fp?usp=sharing
 
+Just place these 2 folders within the base .gmx for them to be applied to the project correctly. 
+
 Related Links : 
 
 https://squeedfingars.itch.io/anhourlongminute
